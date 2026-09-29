@@ -14,4 +14,10 @@ to reproduce manuscript-facing numerical summaries. Re-running empirical fits
 requires locally prepared subject-level posterior means, posterior covariance
 matrices, parameter names, group labels, and the declared covariate table.
 
+Data S4 includes non-identifying source-parameter orderings, target matrices,
+and sparse long-form records of the fitted precision-component dictionaries,
+residual baseline precision terms, and fitted target projections. These
+derived records permit reconstruction of the reported target random-effects
+covariance matrices without redistributing subject-level posterior files.
+
 No direct identifiers, imaging volumes, or internal project logs are included.

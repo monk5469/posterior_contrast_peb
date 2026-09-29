@@ -97,6 +97,10 @@ fMRIPrep derivatives, SPM first-level folders, VOI files, and subject-level
 DCM inversion files are not redistributed. The empirical runners therefore
 accept an explicit derived posterior-summary file and covariate table.
 
+The released Data S1-S4 inventory, interval conventions, and SHA-256 manifest
+are documented in `posterior_contrast_peb/results/README.md` and
+`posterior_contrast_peb/results/manifest.csv`.
+
 See `posterior_contrast_peb/docs/data_availability.md` and
 `posterior_contrast_peb/docs/reproducibility.md`.
 
